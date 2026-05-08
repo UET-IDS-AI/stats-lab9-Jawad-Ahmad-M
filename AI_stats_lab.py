@@ -1,9 +1,4 @@
-
----
-
 ## `AI_stats_lab.py`
-
-```python
 import numpy as np
 
 
